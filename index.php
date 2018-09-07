@@ -10,6 +10,7 @@
   </head>
   <body>
     <!--The div element for the map -->
+    <h3>Map Title</h3>
     <div id="map"></div>
     <script>
 
